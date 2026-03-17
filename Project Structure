@@ -1,0 +1,5 @@
+file-sharing-system/
+│── app.py
+│── uploads/
+│── templates/
+    │── index.html
