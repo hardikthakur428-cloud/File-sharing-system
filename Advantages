@@ -1,5 +1,5 @@
-Easy to build and use
+Advantages of the File Sharing System:
 
-Helps understand web development basics
-
-Can be extended with login and cloud storage
+*   Easy to build and use: The system is designed with simplicity in mind, making it accessible for developers of various skill levels. Its straightforward architecture and user-friendly components allow for quick implementation and customization.
+*   Helps understand web development basics: By working with this system, developers can gain practical experience in core web development concepts such as front-end frameworks, back-end logic, and database interactions. It serves as an excellent learning platform for aspiring web developers.
+*   Can be extended with login and cloud storage: The system's modular design facilitates seamless integration with additional features. Users can easily add user authentication through login systems, and incorporate cloud storage services for enhanced scalability and data management.
